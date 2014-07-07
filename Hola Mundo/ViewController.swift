@@ -26,11 +26,13 @@ class ViewController: UIViewController {
     
     func armaSaludo()
     {
-        saludo.text = "Hola Mundo"
+        saludo.text = "Hola " +  nombre.text + "!!!"
     }
     
     @IBOutlet var saludo: UILabel
     
+
+    @IBOutlet var nombre: UITextField
     
 }
 

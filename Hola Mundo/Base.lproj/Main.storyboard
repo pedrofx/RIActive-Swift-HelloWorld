@@ -50,7 +50,8 @@
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
-                        <outlet property="saludo" destination="8Ud-Ml-gNd" id="SBI-wp-YIV"/>
+                        <outlet property="nombre" destination="5yW-Qt-DIp" id="tB6-zW-YpM"/>
+                        <outlet property="saludo" destination="8Ud-Ml-gNd" id="aGU-iM-iux"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
