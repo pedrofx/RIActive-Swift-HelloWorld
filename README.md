@@ -1,6 +1,5 @@
 Swift - HelloWorld
 =========================
----
 
 **Proyecto:** Swift-HelloWorld  
 **Autor:**    Sergio Brito  
