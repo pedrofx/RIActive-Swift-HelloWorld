@@ -1,10 +1,10 @@
 Swift - HelloWorld
 =========================
 
-**Proyecto:** Swift-HelloWorld
-**Autor:**    Sergio Brito
-**Twitter:**  @yacaFx
-**Web:**     riactive.mx
+**Proyecto:** Swift-HelloWorld  
+**Autor:**    Sergio Brito  
+**Twitter:**  @yacaFx  
+**Web:**     riactive.mx  
 
 
 Ejemplo básico de [Swift](https://developer.apple.com/swift/), el lenguaje de programación de Apple.
